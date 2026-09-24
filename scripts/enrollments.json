@@ -1,0 +1,95 @@
+[
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1e7e10301" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10006" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10101" },
+    "commission_id": { "$oid": "60d5ec49f1b2c8a1d6e10201" },
+    "enrollment_date": { "$date": "2026-05-10T10:00:00Z" },
+    "progress": { "completed_lessons": ["l1"], "percentage": 10.5 }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1e7e10302" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10007" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10101" },
+    "commission_id": { "$oid": "60d5ec49f1b2c8a1d6e10202" },
+    "enrollment_date": { "$date": "2026-04-01T10:00:00Z" },
+    "progress": {
+      "completed_lessons": ["l1", "l2", "l3"],
+      "percentage": 100,
+      "completion_date": { "$date": "2026-06-20T18:00:00Z" }
+    }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1e7e10303" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10008" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10102" },
+    "commission_id": { "$oid": "60d5ec49f1b2c8a1d6e10203" },
+    "enrollment_date": { "$date": "2026-08-01T09:00:00Z" },
+    "progress": { "completed_lessons": [], "percentage": 0 }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1e7e10304" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10009" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10103" },
+    "commission_id": { "$oid": "60d5ec49f1b2c8a1d6e10204" },
+    "enrollment_date": { "$date": "2026-06-15T12:00:00Z" },
+    "progress": { "completed_lessons": ["l1"], "percentage": 45.0 }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1e7e10305" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10010" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10104" },
+    "enrollment_date": { "$date": "2026-08-05T08:30:00Z" },
+    "progress": { "completed_lessons": [], "percentage": 20 }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1e7e10306" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10011" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10105" },
+    "commission_id": { "$oid": "60d5ec49f1b2c8a1d6e10206" },
+    "enrollment_date": { "$date": "2026-03-01T10:00:00Z" },
+    "progress": {
+      "completed_lessons": ["l1"],
+      "percentage": 100,
+      "completion_date": { "$date": "2026-05-01T10:00:00Z" }
+    }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1e7e10307" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10006" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10106" },
+    "commission_id": { "$oid": "60d5ec49f1b2c8a1d6e10207" },
+    "enrollment_date": { "$date": "2026-07-01T10:00:00Z" },
+    "progress": { "completed_lessons": ["l1"], "percentage": 60 }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1e7e10308" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10007" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10108" },
+    "commission_id": { "$oid": "60d5ec49f1b2c8a1d6e10209" },
+    "enrollment_date": { "$date": "2026-09-01T10:00:00Z" },
+    "progress": { "completed_lessons": [], "percentage": 5 }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1e7e10309" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10008" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10109" },
+    "enrollment_date": { "$date": "2026-08-20T10:00:00Z" },
+    "progress": { "completed_lessons": ["l1"], "percentage": 15 }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1e7e10310" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10009" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10107" },
+    "commission_id": { "$oid": "60d5ec49f1b2c8a1d6e10208" },
+    "enrollment_date": { "$date": "2026-06-01T10:00:00Z" },
+    "progress": { "completed_lessons": ["l1"], "percentage": 80 }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1e7e10311" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10010" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10110" },
+    "enrollment_date": { "$date": "2026-09-10T10:00:00Z" },
+    "progress": { "completed_lessons": [], "percentage": 0 }
+  }
+]
