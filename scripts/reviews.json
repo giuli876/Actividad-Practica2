@@ -1,0 +1,86 @@
+[
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1f8e10401" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10101" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10006" },
+    "rating": 5,
+    "comment": "Excelente curso, muy bien explicado.",
+    "createdAt": { "$date": "2026-06-01T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1f8e10402" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10101" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10007" },
+    "rating": 5,
+    "comment": "Me ayudó muchísimo a conseguir mi primer trabajo backend.",
+    "instructor_reply": {
+      "text": "¡Gracias Martín, mucha suerte en tu nuevo puesto!",
+      "date": { "$date": "2026-06-25T09:00:00Z" }
+    },
+    "createdAt": { "$date": "2026-06-21T15:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1f8e10403" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10102" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10008" },
+    "rating": 4,
+    "comment": "Buen contenido, algunos videos podrían ser más cortos.",
+    "createdAt": { "$date": "2026-08-10T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1f8e10404" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10103" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10009" },
+    "rating": 3,
+    "comment": "Está bien pero esperaba más ejercicios prácticos.",
+    "createdAt": { "$date": "2026-07-05T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1f8e10405" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10104" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10010" },
+    "rating": 5,
+    "createdAt": { "$date": "2026-08-15T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1f8e10406" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10105" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10011" },
+    "rating": 4,
+    "comment": "Muy claro para entender el diseño de APIs.",
+    "createdAt": { "$date": "2026-05-05T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1f8e10407" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10106" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10006" },
+    "rating": 5,
+    "comment": "Django dejó de darme miedo después de este curso.",
+    "createdAt": { "$date": "2026-07-20T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1f8e10408" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10108" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10007" },
+    "rating": 2,
+    "comment": "Esperaba que profundizara más en otras bases NoSQL, no solo MongoDB.",
+    "edited": true,
+    "createdAt": { "$date": "2026-09-05T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1f8e10409" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10107" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10009" },
+    "rating": 4,
+    "comment": "Muy actualizado, me sirvió para entender async/await.",
+    "createdAt": { "$date": "2026-06-10T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1f8e10410" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10110" },
+    "user_id": { "$oid": "60d5ec49f1b2c8a1b4e10010" },
+    "rating": 5,
+    "comment": "Justo lo que necesitaba para arrancar con testing.",
+    "createdAt": { "$date": "2026-09-12T10:00:00Z" }
+  }
+]
