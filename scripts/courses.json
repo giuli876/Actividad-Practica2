@@ -1,0 +1,174 @@
+[
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1c5e10101" },
+    "title": "Backend con Node.js y MongoDB",
+    "description": "Curso completo de desarrollo backend usando Node.js, Express y MongoDB.",
+    "instructor_id": { "$oid": "60d5ec49f1b2c8a1b4e10001" },
+    "rating_summary": { "average": 4.8, "total_reviews": 150 },
+    "syllabus": [
+      {
+        "module_id": "m1",
+        "title": "Introducción a NoSQL",
+        "lessons": [
+          { "lesson_id": "l1", "title": "¿Qué es MongoDB?", "video_url": "https://cdn.byteclass.com/v1.mp4" },
+          { "lesson_id": "l2", "title": "Documentos vs Tablas", "video_url": "https://cdn.byteclass.com/v2.mp4" }
+        ]
+      },
+      {
+        "module_id": "m2",
+        "title": "Express y Rutas",
+        "lessons": [
+          { "lesson_id": "l3", "title": "Configurando Express", "video_url": "https://cdn.byteclass.com/v3.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1c5e10102" },
+    "title": "Python para Data Science",
+    "description": "Análisis de datos con Python, Pandas y NumPy desde cero.",
+    "instructor_id": { "$oid": "60d5ec49f1b2c8a1b4e10002" },
+    "rating_summary": { "average": 4.5, "total_reviews": 80 },
+    "syllabus": [
+      {
+        "module_id": "m1",
+        "title": "Fundamentos de Python",
+        "lessons": [
+          { "lesson_id": "l1", "title": "Tipos de datos", "video_url": "https://cdn.byteclass.com/v4.mp4" },
+          { "lesson_id": "l2", "title": "Estructuras de control", "video_url": "https://cdn.byteclass.com/v5.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1c5e10103" },
+    "title": "React desde Cero",
+    "description": "Construí interfaces modernas con React y Hooks.",
+    "instructor_id": { "$oid": "60d5ec49f1b2c8a1b4e10003" },
+    "rating_summary": { "average": 4.6, "total_reviews": 95 },
+    "syllabus": [
+      {
+        "module_id": "m1",
+        "title": "Componentes y Props",
+        "lessons": [
+          { "lesson_id": "l1", "title": "Tu primer componente", "video_url": "https://cdn.byteclass.com/v6.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1c5e10104" },
+    "title": "MongoDB Avanzado",
+    "description": "Agregaciones, índices y modelado avanzado en MongoDB.",
+    "instructor_id": { "$oid": "60d5ec49f1b2c8a1b4e10001" },
+    "rating_summary": { "average": 4.9, "total_reviews": 42 },
+    "discount": { "percentage": 20, "valid_until": { "$date": "2026-10-31T23:59:59Z" } },
+    "certificate_available": true,
+    "syllabus": [
+      {
+        "module_id": "m1",
+        "title": "Aggregation Framework",
+        "lessons": [
+          { "lesson_id": "l1", "title": "Pipeline de agregación", "video_url": "https://cdn.byteclass.com/v7.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1c5e10105" },
+    "title": "Diseño de APIs REST",
+    "description": "Buenas prácticas para diseñar APIs REST escalables.",
+    "instructor_id": { "$oid": "60d5ec49f1b2c8a1b4e10001" },
+    "rating_summary": { "average": 4.7, "total_reviews": 60 },
+    "syllabus": [
+      {
+        "module_id": "m1",
+        "title": "Principios REST",
+        "lessons": [
+          { "lesson_id": "l1", "title": "Verbos HTTP", "video_url": "https://cdn.byteclass.com/v8.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1c5e10106" },
+    "title": "Django Framework Completo",
+    "description": "Desarrollo web backend con Django y PostgreSQL.",
+    "instructor_id": { "$oid": "60d5ec49f1b2c8a1b4e10002" },
+    "rating_summary": { "average": 4.4, "total_reviews": 55 },
+    "syllabus": [
+      {
+        "module_id": "m1",
+        "title": "Modelos y ORM",
+        "lessons": [
+          { "lesson_id": "l1", "title": "Definiendo modelos", "video_url": "https://cdn.byteclass.com/v9.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1c5e10107" },
+    "title": "JavaScript Moderno (ES6+)",
+    "description": "Todo lo nuevo de JavaScript: arrow functions, async/await, módulos.",
+    "instructor_id": { "$oid": "60d5ec49f1b2c8a1b4e10003" },
+    "rating_summary": { "average": 4.6, "total_reviews": 110 },
+    "syllabus": [
+      {
+        "module_id": "m1",
+        "title": "Sintaxis moderna",
+        "lessons": [
+          { "lesson_id": "l1", "title": "let, const y arrow functions", "video_url": "https://cdn.byteclass.com/v10.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1c5e10108" },
+    "title": "Bases de Datos NoSQL",
+    "description": "Panorama general de bases NoSQL: documentales, clave-valor y de grafos.",
+    "instructor_id": { "$oid": "60d5ec49f1b2c8a1b4e10001" },
+    "rating_summary": { "average": 4.3, "total_reviews": 30 },
+    "prerequisites": ["Lógica de programación", "Conceptos básicos de bases de datos"],
+    "syllabus": [
+      {
+        "module_id": "m1",
+        "title": "Tipos de bases NoSQL",
+        "lessons": [
+          { "lesson_id": "l1", "title": "Documentales vs Clave-Valor", "video_url": "https://cdn.byteclass.com/v11.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1c5e10109" },
+    "title": "Docker y Kubernetes para Devs",
+    "description": "Containerización y orquestación aplicada a proyectos reales.",
+    "instructor_id": { "$oid": "60d5ec49f1b2c8a1b4e10002" },
+    "rating_summary": { "average": 0, "total_reviews": 0 },
+    "syllabus": [
+      {
+        "module_id": "m1",
+        "title": "Introducción a Docker",
+        "lessons": [
+          { "lesson_id": "l1", "title": "Qué es un contenedor", "video_url": "https://cdn.byteclass.com/v12.mp4" }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1c5e10110" },
+    "title": "Testing con Jest y Cypress",
+    "description": "Testing unitario y end-to-end para aplicaciones JavaScript.",
+    "instructor_id": { "$oid": "60d5ec49f1b2c8a1b4e10003" },
+    "rating_summary": { "average": 4.5, "total_reviews": 27 },
+    "syllabus": [
+      {
+        "module_id": "m1",
+        "title": "Testing unitario",
+        "lessons": [
+          { "lesson_id": "l1", "title": "Primeros tests con Jest", "video_url": "https://cdn.byteclass.com/v13.mp4" }
+        ]
+      }
+    ]
+  }
+]
