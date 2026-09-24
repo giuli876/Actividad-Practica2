@@ -1,0 +1,72 @@
+[
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1d6e10201" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10101" },
+    "assistant_id": { "$oid": "60d5ec49f1b2c8a1b4e10004" },
+    "name": "Comisión Lunes-Miércoles Noche",
+    "status": "active"
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1d6e10202" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10101" },
+    "assistant_id": { "$oid": "60d5ec49f1b2c8a1b4e10005" },
+    "name": "Comisión Sábados Mañana",
+    "status": "active"
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1d6e10203" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10102" },
+    "assistant_id": { "$oid": "60d5ec49f1b2c8a1b4e10004" },
+    "name": "Comisión Martes-Jueves",
+    "status": "active"
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1d6e10204" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10103" },
+    "assistant_id": { "$oid": "60d5ec49f1b2c8a1b4e10005" },
+    "name": "Comisión Virtual Asincrónica",
+    "status": "active",
+    "schedule": "self-paced"
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1d6e10205" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10104" },
+    "assistant_id": null,
+    "name": "Comisión Intensiva Verano",
+    "status": "pending"
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1d6e10206" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10105" },
+    "assistant_id": { "$oid": "60d5ec49f1b2c8a1b4e10004" },
+    "name": "Comisión Lunes Noche",
+    "status": "finished"
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1d6e10207" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10106" },
+    "assistant_id": { "$oid": "60d5ec49f1b2c8a1b4e10005" },
+    "name": "Comisión Viernes Tarde",
+    "status": "active"
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1d6e10208" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10107" },
+    "assistant_id": { "$oid": "60d5ec49f1b2c8a1b4e10004" },
+    "name": "Comisión Martes Noche",
+    "status": "active"
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1d6e10209" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10108" },
+    "assistant_id": { "$oid": "60d5ec49f1b2c8a1b4e10005" },
+    "name": "Comisión Jueves Mañana",
+    "status": "active"
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1d6e10210" },
+    "course_id": { "$oid": "60d5ec49f1b2c8a1c5e10109" },
+    "name": "Modalidad Self-Paced",
+    "status": "not_required"
+  }
+]
