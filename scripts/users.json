@@ -1,0 +1,109 @@
+[
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1b4e10001" },
+    "name": "Juan Pérez",
+    "email": "juan.perez@byteclass.com",
+    "password_hash": "$2b$10$hash.simulado.juan",
+    "role": "instructor",
+    "profile_picture": "https://byteclass.com/img/juan.jpg",
+    "bio": "Desarrollador Full Stack con 8 años de experiencia en Node.js y bases de datos NoSQL.",
+    "specialties": ["Node.js", "MongoDB", "APIs REST"],
+    "createdAt": { "$date": "2026-01-10T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1b4e10002" },
+    "name": "Mariana López",
+    "email": "mariana.lopez@byteclass.com",
+    "password_hash": "$2b$10$hash.simulado.mariana",
+    "role": "instructor",
+    "profile_picture": "https://byteclass.com/img/mariana.jpg",
+    "bio": "Data Scientist especializada en Python aplicado al análisis de datos.",
+    "specialties": ["Python", "Django", "Data Science"],
+    "createdAt": { "$date": "2026-01-15T09:30:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1b4e10003" },
+    "name": "Carlos Fernández",
+    "email": "carlos.fernandez@byteclass.com",
+    "password_hash": "$2b$10$hash.simulado.carlos",
+    "role": "instructor",
+    "profile_picture": "https://byteclass.com/img/carlos.jpg",
+    "bio": "Frontend Developer enfocado en React y experiencias de usuario modernas.",
+    "specialties": ["React", "JavaScript", "Testing"],
+    "createdAt": { "$date": "2026-02-01T11:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1b4e10004" },
+    "name": "Lucía Gómez",
+    "email": "lucia.gomez@byteclass.com",
+    "password_hash": "$2b$10$hash.simulado.lucia",
+    "role": "assistant",
+    "profile_picture": "https://byteclass.com/img/lucia.jpg",
+    "hired_date": { "$date": "2026-03-01T00:00:00Z" },
+    "createdAt": { "$date": "2026-03-01T08:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1b4e10005" },
+    "name": "Nicolás Torres",
+    "email": "nicolas.torres@byteclass.com",
+    "password_hash": "$2b$10$hash.simulado.nicolas",
+    "role": "assistant",
+    "profile_picture": "https://byteclass.com/img/nicolas.jpg",
+    "hired_date": { "$date": "2026-04-10T00:00:00Z" },
+    "createdAt": { "$date": "2026-04-10T08:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1b4e10006" },
+    "name": "Sofía Ramírez",
+    "email": "sofia.ramirez@gmail.com",
+    "password_hash": "$2b$10$hash.simulado.sofia",
+    "role": "student",
+    "profile_picture": "https://byteclass.com/img/sofia.jpg",
+    "createdAt": { "$date": "2026-05-02T14:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1b4e10007" },
+    "name": "Martín Díaz",
+    "email": "martin.diaz@gmail.com",
+    "password_hash": "$2b$10$hash.simulado.martin",
+    "role": "student",
+    "profile_picture": "https://byteclass.com/img/martin.jpg",
+    "createdAt": { "$date": "2026-05-05T16:20:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1b4e10008" },
+    "name": "Valentina Suárez",
+    "email": "valentina.suarez@gmail.com",
+    "password_hash": "$2b$10$hash.simulado.valentina",
+    "role": "student",
+    "profile_picture": "https://byteclass.com/img/valentina.jpg",
+    "createdAt": { "$date": "2026-06-01T10:10:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1b4e10009" },
+    "name": "Agustín Molina",
+    "email": "agustin.molina@gmail.com",
+    "password_hash": "$2b$10$hash.simulado.agustin",
+    "role": "student",
+    "profile_picture": "https://byteclass.com/img/agustin.jpg",
+    "createdAt": { "$date": "2026-06-15T18:45:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1b4e10010" },
+    "name": "Camila Herrera",
+    "email": "camila.herrera@gmail.com",
+    "password_hash": "$2b$10$hash.simulado.camila",
+    "role": "student",
+    "profile_picture": "https://byteclass.com/img/camila.jpg",
+    "createdAt": { "$date": "2026-07-01T09:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "60d5ec49f1b2c8a1b4e10011" },
+    "name": "Tomás Acosta",
+    "email": "tomas.acosta@gmail.com",
+    "password_hash": "$2b$10$hash.simulado.tomas",
+    "role": "student",
+    "profile_picture": "https://byteclass.com/img/tomas.jpg",
+    "createdAt": { "$date": "2026-07-20T12:30:00Z" }
+  }
+]
